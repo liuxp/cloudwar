@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data name="module">
+	<type name="loadcfg"  desc="加载配置">
+		<linkClass url="LoadcfgXML"/>
+	</type>
+	
+</data>

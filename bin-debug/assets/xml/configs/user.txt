@@ -1,0 +1,82 @@
+{
+	"arms" :[//全部的兵种
+	
+		{"id":"Shu_DB","lv":1},
+		{"id":"Shu_QB","lv":1},
+		{"id":"Shu_GB","lv":1},
+		{"id":"Shu_DS","lv":1},
+		{"id":"Shu_PC","lv":1},
+		{"id":"Shu_WD","lv":1},
+		{"id":"Shu_CK","lv":1},
+		{"id":"Shu_JS","lv":1},
+		{"id":"Shu_WN","lv":1}
+	],
+			
+	"troops" : [//玩家战前军队配置
+	
+		{"id":"Shu_YX1","lv":10},
+		{"id":"Shu_DB","lv":1},
+		{"id":"Shu_QB","lv":1},
+		{"id":"Shu_GB","lv":1},
+		{"id":"Shu_DS","lv":1},
+		{"id":"Shu_PC","lv":1}
+	],
+			
+	"skills" : [//英雄技能
+	
+		"Shu_YX1_Skill2", 
+		"Shu_YX1_Skill3", 
+		"Shu_YX1_Skill4"
+	],
+ 		
+	"progress" : {//玩家进度
+	
+		"chapter" : "chapter1",//当前章节
+		"mission" : "xinye_JQ_1",//当前关卡
+		
+		"map" : {//玩家全部推进的章节
+		
+			"chapter1":{//第一章开启的章节
+			
+				"xinye_JQ_1":3, 
+				"xinye_JQ_2":1,
+				"xinye_JQ_3":2, 
+				"xinye_JQ_4":-1
+				
+			}
+		}
+	},
+				
+	"equips" :{ //背包
+		"Weapon" : {
+			"NorWea_1" : {"step":1, "num":1},
+			"NorWea_2" : {"step":1, "num":2}
+		},
+		"Armor" : {
+			"NorArm_1" : {"step":1, "num":1},
+			"NorArm_2" : {"step":1, "num":2}
+		},
+		"Horse" : {
+			"NorHor_1" : {"step":1, "num":2},
+			"NorHor_2" : {"step":1, "num":2}
+		},
+		"Treasure" : {
+			"LegTre_1" : {"step":1, "num":1},
+			"LegTre_2" : {"step":1, "num":1}
+		},
+		"Extra" : {
+			"LegExt_1" : {"step":1, "num":1},
+			"LegExt_2" : {"step":1, "num":1}
+		}
+				
+	},
+ 
+    "heroEquips": { //英雄装备
+    
+        "Weapon": ["NorWea_1"],
+        "Armor": ["NorArm_1"],
+        "Horse": ["NorHor_1"],
+        "Treasure": ["LegTre_1"],
+        "Extra": ["LegExt_1", "LegExt_2"]
+    } 
+}

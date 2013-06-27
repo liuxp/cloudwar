@@ -1,0 +1,745 @@
+{
+    "xinye_JQ_1": {
+        "BattleBefore": [
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "【游戏介绍】《云战》是一款动作塔防类游戏，其基本玩法就是操作英雄和士兵与敌人对战。同类产品有《圣犬帕拉》《武士大战僵尸》。"
+                ]
+            }, 
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "【游戏介绍】控制英雄移动的方式是按下左侧屏幕则英雄向左移动，按下右侧屏幕则向右移动。手指离开屏幕则停止移动。"
+                ]
+            }, 
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "【游戏介绍】点击屏幕左下方的士兵图标则生产士兵，点击屏幕右下方的技能图标则施放英雄技能。"
+                ]
+            }, 
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "【游戏介绍】第1种士兵是盾兵，他会积极保护英雄。第2种士兵是枪兵，他会积极冲锋。第3种士兵是弓兵，他则在远处进行攻击。"
+                ]
+            }, 
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "【游戏介绍】第4种士兵是道士，他会使用落雷法术。第5种士兵是炮车，他会抛掷巨石攻击一片敌人。"
+                ]
+            }, 
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "【游戏介绍】游戏中共设计了9种士兵，另外的4种是会迷惑敌军的军师，会治疗的舞娘，会气功波的武斗家，会沉默的刺客。玩家每次开战前选择5种士兵登场。"
+                ]
+            }, 
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "【游戏介绍】赵云的第1个技能是提升自己的移动速度。第2个技能是击退身边的敌人。第3个技能是击晕靠近的敌人。赵云共会10种技能，每场战斗限定装配3种。"
+                ]
+            }, 
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "【游戏介绍】第1关是对冲模式。玩家的战斗目标是击杀敌军大将吕旷。作为第一关我们安排了刘备在场上帮忙。正式版本会有详细的教学，以帮助玩家学会如何操作。"
+                ]
+            }, 
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "【游戏介绍】下面进入正式关卡剧情啦^^"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ3", 
+                "dir": "left", 
+                "dialog": [
+                    "那刘备，沛郡小辈，妄称皇叔。"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ3", 
+                "dir": "left", 
+                "dialog": [
+                    "先从吕布，后事袁绍，近投刘表，足可见其为人。"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ3", 
+                "dir": "left", 
+                "dialog": [
+                    "今丞相意取荆州，必先踏平新野。哪家虎将愿为先锋？"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ2", 
+                "dir": "right", 
+                "dialog": [
+                    "某家愿往！"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ1", 
+                "dir": "right", 
+                "dialog": [
+                    "我兄弟二人得丞相大恩，愿率五千精兵为都督去取刘备项上人头！"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ4", 
+                "dir": "rihgt", 
+                "dialog": [
+                    "将军！丞相派你我驻守樊城，意在此监视刘备动向。现丞相大军未到，而刘备手下关张赵云皆有万夫莫敌之勇，贸然出击甚是不利啊~"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ3", 
+                "dir": "left", 
+                "dialog": [
+                    "观那刘备屯兵新野，招兵买马、积草储粮，其志不小啊。若不早图，恐日后麻烦。现有吕家两位虎将愿为先锋，趁其羽毛未丰，斩其锋芒！"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ3", 
+                "dir": "left", 
+                "dialog": [
+                    "吕旷、吕翔二将听令！率兵马一万，给我踏平新野！"
+                ]
+            }
+        ], 
+        "BattleIn": [
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "camera": 80, 
+                "ease": false, 
+                "dialog": [
+                    "我乃刘备，何人敢犯吾境！"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ1", 
+                "dir": "right", 
+                "camera": 1880, 
+                "ease": true, 
+                "dialog": [
+                    "吾乃大将吕旷是也。"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ1", 
+                "dir": "right", 
+                "camera": 1880, 
+                "ease": false, 
+                "dialog": [
+                    "奉丞相命，特来擒汝！"
+                ]
+            }, 
+            {
+                "head": "Shu_YX1", 
+                "dir": "left", 
+                "camera": 360, 
+                "ease": true, 
+                "dialog": [
+                    "好不要脸！"
+                ]
+            }, 
+            {
+                "head": "Shu_YX1", 
+                "dir": "left", 
+                "camera": 360, 
+                "ease": false, 
+                "dialog": [
+                    "够胆你为何躲得那么远~"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ1", 
+                "dir": "right", 
+                "camera": 1880, 
+                "ease": true, 
+                "dialog": [
+                    "哈哈，此乃我层峦叠嶂之阵。你能奈我何~"
+                ]
+            }, 
+            {
+                "head": "Shu_YX1", 
+                "dir": "left", 
+                "camera": 360, 
+                "ease": true, 
+                "dialog": [
+                    "吕旷，且看我赵子龙今日如何破你！"
+                ]
+            }
+        ], 
+        "BattleWin": [
+            {
+                "head": "Shu_WJ6", 
+                "dir": "right", 
+                "dialog": [
+                    "哎~又要打仗了，百姓要遭殃了啊！"
+                ]
+            }, 
+            {
+                "head": "Shu_YX1", 
+                "dir": "left", 
+                "dialog": [
+                    "主公！子龙愿凭手中银枪一身武艺，以解主公心系天下黎民苍生之忧虑！"
+                ]
+            }, 
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "【游戏介绍】DEMO第1关结束啦。我们有着做好游戏的梦想。我们制定了一整套的产品线，有的追求人气而有的则追求收入。"
+                ]
+            }, 
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "【游戏介绍】以《云战》作为我们的第一步，他虽小但变化丰富，他的赢利空间足够支撑我们进行下一步的超大型WebSLG的开发，那将是我们撼动市场的重拳。"
+                ]
+            }
+        ], 
+        "BattleFail": [
+            {
+                "head": "Shu_YX1", 
+                "dir": "right", 
+                "dialog": [
+                    "哇呀呀！被吕旷胜了一局！"
+                ]
+            }, 
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "我为子龙压阵，若战况不利可来我处稍事休息啊~"
+                ]
+            }
+        ]
+    }, 
+    "xinye_JQ_2": {
+        "BattleBefore": [
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "【游戏介绍】故事性是游戏的设计特色之一，以此来提高玩家对游戏的沉浸感。多模式的特色设计既能够减轻玩家的枯燥感也是为了匹配故事的发展。"
+                ]
+            }, 
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "【游戏介绍】双方各自生产士兵对冲是基本的游戏模式。还有追击逃跑敌人的模式，引诱夏侯惇中伏时采用护送小兵的玩法，在长坂坡掩护刘备夫人撤退就要护送马车。"
+                ]
+            }, 
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "【游戏介绍】还有与曹仁1v1的单挑模式，和关羽张飞3v3对敌夏侯惇等人的单挑模式，以及象植物大战僵尸那样在五条道路上指挥士兵作战的指挥模式。"
+                ]
+            }, 
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "【游戏介绍】DEMO的第1关展现对冲模式。第2关展现追击模式。玩家需要在吕翔逃到最右方的撤离点之前拦截他。"
+                ]
+            }, 
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "【游戏介绍】运用好武将技是关键：技能1能够提高速度冲入敌阵拦截吕翔，技能2可能将身边的敌人击退并产生大量伤害，技能3能够击晕敌人来提高生存能力。"
+                ]
+            }, 
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "【游戏介绍】下面进入正式关卡剧情啦^^"
+                ]
+            }, 
+            {
+                "head": "Wei_DB", 
+                "dir": "right", 
+                "dialog": [
+                    "快跑啊！只要逃到樊城就保住小命了啊~~"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ2", 
+                "dir": "left", 
+                "dialog": [
+                    "你们殿后，让我先跑！"
+                ]
+            }, 
+            {
+                "head": "Wei_GB", 
+                "dir": "right", 
+                "dialog": [
+                    "闪开呀，后面来了个骑白马的，一枪死一串啊！"
+                ]
+            }, 
+            {
+                "head": "Wei_QB", 
+                "dir": "right", 
+                "dialog": [
+                    "啊~~啊！被追上啦！"
+                ]
+            }
+        ], 
+        "BattleIn": [
+            {
+                "head": "Shu_YX1", 
+                "dir": "left", 
+                "camera": 640, 
+                "ease": false, 
+                "dialog": [
+                    "速速归降！"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ2", 
+                "dir": "right", 
+                "camera": 1160, 
+                "ease": true, 
+                "dialog": [
+                    "打不过你，我还躲不过嘛！"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ2", 
+                "dir": "right", 
+                "camera": 1160, 
+                "ease": false, 
+                "dialog": [
+                    "留得青山在，不怕没柴烧！"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ2", 
+                "dir": "right", 
+                "camera": 1160, 
+                "ease": false, 
+                "dialog": [
+                    "退一步海阔天空，让一分风平。。。"
+                ]
+            }, 
+            {
+                "head": "Shu_YX1", 
+                "dir": "left", 
+                "camera": 640, 
+                "ease": true, 
+                "dialog": [
+                    "休得废话！将士们不要恋战，抓住吕翔要紧！随我上~"
+                ]
+            }
+        ], 
+        "BattleWin": [
+            {
+                "head": "Shu_YX1", 
+                "dir": "left", 
+                "dialog": [
+                    "我家刘备主公，乃皇室宗亲~"
+                ]
+            }, 
+            {
+                "head": "Shu_YX1", 
+                "dir": "left", 
+                "dialog": [
+                    "体恤百姓！"
+                ]
+            }, 
+            {
+                "head": "Shu_YX1", 
+                "dir": "left", 
+                "dialog": [
+                    "袭承大统！！"
+                ]
+            }, 
+            {
+                "head": "Shu_YX1", 
+                "dir": "left", 
+                "dialog": [
+                    "匡扶汉室！！！"
+                ]
+            }, 
+            {
+                "head": "Shu_YX1", 
+                "dir": "left", 
+                "dialog": [
+                    "回去告诉曹操老贼，来必诛之！"
+                ]
+            }, 
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "【游戏介绍】我们从1月初开始组建团队，筹备创业事宜。前几个月曾尝试一款更为小型化的策略塔防游戏，然而随着开发的深入，我们觉得收费空间不大而放弃了他。"
+                ]
+            }, 
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "【游戏介绍】从四月开始启动《云战》，基于之前的积累我们快速开发出此DEMO。"
+                ]
+            }, 
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "【游戏介绍】因为更强的角色扮演成分，让我们更容易制作付费点。而且内容量的放大也让我们对产品更加有信心得到玩家的认可。"
+                ]
+            }, 
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "【游戏介绍】将近半年的时间过去了，我们对市场更有信心、我们对自己的产品更有信心、我们对创业的态度更加坚决。"
+                ]
+            }, 
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "【游戏介绍】感谢您体验我们的产品。联络方式是这样的：（Tel）139 0103 8040，（QQ）8400 8967。"
+                ]
+            }, 
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "【游戏介绍】2013年5月，“三头六臂”游戏团队^^"
+                ]
+            }
+        ], 
+        "BattleFail": [
+            {
+                "head": "Shu_YX1", 
+                "dir": "left", 
+                "dialog": [
+                    "可恨，被那吕翔小儿逃了！"
+                ]
+            }, 
+            {
+                "head": "Shu_WJ6", 
+                "dir": "right", 
+                "dialog": [
+                    "那吕翔只知亡命逃窜，子龙不可与小兵缠斗~"
+                ]
+            }
+        ]
+    }, 
+    "xinye_TZ_1": {
+        "BattleBefore": [
+            {
+                "head": "Shu_WJ3", 
+                "dir": "right", 
+                "dialog": [
+                    "子龙，你我对饮三百碗！"
+                ]
+            }, 
+            {
+                "head": "Shu_YX1", 
+                "dir": "left", 
+                "dialog": [
+                    "请！"
+                ]
+            }
+        ], 
+        "BattleWin": [
+            {
+                "head": "Shu_YX1", 
+                "dir": "left", 
+                "dialog": [
+                    "哈哈！痛快！痛快~"
+                ]
+            }
+        ], 
+        "BattleFail": [
+            {
+                "head": "Shu_WJ3", 
+                "dir": "left", 
+                "dialog": [
+                    "哇呀呀，今日饮得痛快！"
+                ]
+            }
+        ]
+    }, 
+    "xinye_JQ_3": {
+        "BattleBefore": [
+            {
+                "head": "Wei_DB", 
+                "dir": "right", 
+                "dialog": [
+                    "报将军，吕旷吕翔二位将军被赵云斩杀！"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ3", 
+                "dir": "left", 
+                "dialog": [
+                    "刘备欺我太甚！"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ4", 
+                "dir": "right", 
+                "dialog": [
+                    "将军忍耐，今只宜待丞相起大军前来。"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ3", 
+                "dir": "left", 
+                "dialog": [
+                    "量新野弹丸之地，何劳丞相大军！点齐兵马，随某家出战！"
+                ]
+            }
+        ], 
+        "BattleIn": [
+            {
+                "head": "Wei_WJ3", 
+                "dir": "right", 
+                "camera": 880, 
+                "ease": false, 
+                "dialog": [
+                    "刘备，尔阵中可有人识得我这阵法？哇哈哈~"
+                ]
+            }, 
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "camera": 40, 
+                "ease": true, 
+                "dialog": [
+                    "小小八门金锁。"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ3", 
+                "dir": "right", 
+                "camera": 880, 
+                "ease": true, 
+                "dialog": [
+                    "狂胆小儿，汝敢来破我阵否？"
+                ]
+            }, 
+            {
+                "head": "Shu_YX1", 
+                "dir": "left", 
+                "camera": 200, 
+                "ease": true, 
+                "dialog": [
+                    "常山赵子龙来也~~"
+                ]
+            }
+        ], 
+        "BattleWin": [
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "辛苦子龙啦~"
+                ]
+            }, 
+            {
+                "head": "Shu_YX1", 
+                "dir": "right", 
+                "dialog": [
+                    "为主公效犬马之劳，子龙幸哉。"
+                ]
+            }
+        ], 
+        "BattleFail": [
+            {
+                "head": "Shu_YX1", 
+                "dir": "left", 
+                "dialog": [
+                    "好个八门金锁阵！"
+                ]
+            }, 
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "赵将军，破此八门金锁阵，一定要快！"
+                ]
+            }
+        ]
+    }, 
+    "xinye_JQ_4": {
+        "BattleBefore": [
+            {
+                "head": "Wei_WJ4", 
+                "dir": "left", 
+                "dialog": [
+                    "我说不能去吧，你偏要去。如今怎办？"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ3", 
+                "dir": "right", 
+                "dialog": [
+                    "哼~今夜去截寨！"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ4", 
+                "dir": "left", 
+                "dialog": [
+                    "还要去啊！万一人家有准备。。。"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ3", 
+                "dir": "right", 
+                "dialog": [
+                    "不可能！刘备帐下就没有谋士。"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ4", 
+                "dir": "left", 
+                "dialog": [
+                    "那再打不过，你可得听我的。咱们退守樊城，待丞相。。。"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ3", 
+                "dir": "right", 
+                "dialog": [
+                    "待你个头！我要不把那赵云小儿推倒，妄为九尺男儿！"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ4", 
+                "dir": "left", 
+                "dialog": [
+                    "……╮(╯_╰)╭"
+                ]
+            }
+        ], 
+        "BattleIn": [
+            {
+                "head": "Wei_WJ3", 
+                "dir": "right", 
+                "camera": 360, 
+                "ease": false, 
+                "dialog": [
+                    "假人！我们中计啦！"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ4", 
+                "dir": "right", 
+                "camera": 440, 
+                "ease": true, 
+                "dialog": [
+                    "撤！"
+                ]
+            }, 
+            {
+                "head": "Shu_YX1", 
+                "dir": "left", 
+                "camera": 800, 
+                "ease": true, 
+                "dialog": [
+                    "子龙待二位将军久矣~"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ3", 
+                "dir": "right", 
+                "camera": 360, 
+                "ease": true, 
+                "dialog": [
+                    "怎么又是你！"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ4", 
+                "dir": "right", 
+                "camera": 440, 
+                "ease": true, 
+                "dialog": [
+                    "为什么要说又呢。。。"
+                ]
+            }, 
+            {
+                "head": "Shu_YX1", 
+                "dir": "left", 
+                "camera": 800, 
+                "ease": true, 
+                "dialog": [
+                    "团团围住！莫要走脱了曹仁！"
+                ]
+            }
+        ], 
+        "BattleWin": [
+            {
+                "head": "Shu_YX1", 
+                "dir": "left", 
+                "dialog": [
+                    "曹仁，够胆与我大战二十合吗！！"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ3", 
+                "dir": "right", 
+                "dialog": [
+                    "二十！小儿欺我太甚！！！"
+                ]
+            }, 
+            {
+                "head": "Wei_WJ4", 
+                "dir": "right", 
+                "dialog": [
+                    "别去了，走吧。。。"
+                ]
+            }
+        ], 
+        "BattleFail": [
+            {
+                "head": "Shu_WJ6", 
+                "dir": "left", 
+                "dialog": [
+                    "子龙可擒住那曹仁？"
+                ]
+            }, 
+            {
+                "head": "Shu_YX1", 
+                "dir": "right", 
+                "dialog": [
+                    "末将不才，教那斯溜走了~"
+                ]
+            }, 
+            {
+                "head": "Shu_WJ6", 
+                "dir": "right", 
+                "dialog": [
+                    "赵将军要设法将曹仁与李典分而破之。"
+                ]
+            }
+        ]
+    }
+}

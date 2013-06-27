@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data name="LoadConfig">
+	<type name="asset"  desc="元件">
+		<linkClass url="AssetXML"/>
+		<linkClass url="AssetSWF"/>
+	</type>
+	<type name="sheet"  desc="元件">
+		<linkClass url="SheetXML"/>
+		<linkClass url="SheetSWF"/>
+	</type> 
+</data>

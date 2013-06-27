@@ -1,0 +1,14 @@
+{
+    "Shu_YX1_attack01": {"frame":2},
+    "Shu_YX1_attack02": {"frame":3},
+    "Shu_YX1_attack03": {"frame":4},
+    "Shu_DB_step1_attack01": {"frame":5},
+    "Shu_WD_step1_attack01": {"frame":7}, 
+    "Shu_QB_step1_attack01": {"frame":4}, 
+    "Shu_CK_step1_attack01": {"frame":4}, 
+    "Wei_WJ1_attack01": {"frame":2},
+    "Wei_DB_step1_attack01": {"frame":5},
+    "Wei_WD_step1_attack01": {"frame":7}, 
+    "Wei_QB_step1_attack01": {"frame":4}, 
+    "Wei_CK_step1_attack01": {"frame":4}
+}

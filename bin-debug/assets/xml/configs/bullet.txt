@@ -1,0 +1,77 @@
+{
+    "Bullet_1": {
+        "Speed": 30, 
+        "FlyType": "Parabola", 
+        "Res": "bullet_Shu_GB_step1_attack01"
+    }, 
+    "Bullet_2": {
+        "Speed": 10, 
+        "FlyType": "Parabola", 
+        "Res": "bullet_Shu_GB_step1_skill01"
+    }, 
+    "Bullet_3": {
+        "Speed": 30, 
+        "FlyType": "Parabola", 
+        "Res": "bullet_Shu_PC_step1_skill01"
+    }, 
+    "Bullet_4": {
+        "Speed": 10, 
+        "FlyType": "Parabola", 
+        "Res": "bullet_Shu_PC_step1_skill01"
+    }, 
+    "Bullet_5": {
+        "Speed": 10, 
+        "FlyType": "line", 
+        "Res": "bullet_Shu_WD_step1_skill01"
+    }, 
+    "Bullet_6": {
+        "Speed": 10, 
+        "FlyType": "line", 
+        "Res": "bullet_Shu_WD_step1_skill01"
+    }, 
+    "Bullet_7": {
+        "Speed": 10, 
+        "FlyType": "line", 
+        "Res": "bullet_Shu_WD_step1_skill01"
+    }, 
+    "Bullet_8": {
+        "Speed": 10, 
+        "FlyType": "line", 
+        "Res": "bullet_Shu_PC_step1_skill01"
+    }, 
+    "Bullet_9": {
+        "Speed": 10, 
+        "FlyType": "line", 
+        "Res": "bullet_Shu_PC_step1_skill01"
+    }, 
+    "Bullet_10": {
+        "Speed": 10, 
+        "FlyType": "line", 
+        "Res": "bullet_Shu_PC_step1_skill01"
+    }, 
+    "Bullet_11": {
+        "Speed": 10, 
+        "FlyType": "line", 
+        "Res": "bullet_Shu_PC_step1_skill01"
+    }, 
+    "Bullet_12": {
+        "Speed": 10, 
+        "FlyType": "line", 
+        "Res": "bullet_Shu_PC_step1_skill01"
+    }, 
+    "Bullet_13": {
+        "Speed": 10, 
+        "FlyType": "line", 
+        "Res": "bullet_Shu_PC_step1_skill01"
+    }, 
+    "Bullet_14": {
+        "Speed": 10, 
+        "FlyType": "line", 
+        "Res": "bullet_Shu_PC_step1_skill01"
+    }, 
+    "Bullet_15": {
+        "Speed": 10, 
+        "FlyType": "line", 
+        "Res": "bullet_Shu_PC_step1_skill01"
+    }
+}

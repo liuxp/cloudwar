@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data name="gamecfg">
+	<type name="gamecfg"  desc="游戏配置">
+		<!--<load url="ak5jpg" format='binary'/>-->
+		<load url="story" format='binary' type='story'/> 
+		<load url="army" format='binary' type='army'/>
+		<load url="skill" format='binary' type='skill'/>
+		<load url="bullet" format='binary' type='bullet'/>
+		<load url="follow" format='binary' type='follow'/>
+		<load url="equip" format='binary' type='equip'/>
+		<load url="chapter" format='binary' type='chapter'/>
+		<load url="mession" format='binary' type='mession'/>
+		<load url="user" format='binary' type='user'/>
+	</type>
+</data>

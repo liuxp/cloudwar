@@ -1,0 +1,118 @@
+<list fileName="asset" type='symbol'>
+	<symbol className="Alert"/>
+	<symbol className="Map1"/>
+	
+	<symbol className="Btn_Battle"/>
+	<!--粮草-->
+	<symbol className="PKSkillUI"/>
+	<symbol className="HeroSkill"/>
+	<symbol className="PKMessionUI"/>
+	<symbol className="WaveRwdUI"/>
+	<!--生产-->
+	<symbol className="ArmyProduct"/>
+	<!--粮草-->
+	<symbol className="FoodUI"/>
+	<!--气力-->
+	<symbol className="EnergyUI"/>
+	<!--拼酒-->
+	<symbol className="DrunkUI"/>
+	<!--对话-->
+	<symbol className="DialogUI"/>
+	<!--对话气泡-->
+	<symbol className="TalkBubbleUI"/>
+	<!--大本营-->
+	<symbol className="CampUI"/>
+	<!--大本营标题-->
+	<symbol className="Camp_Titles"/>
+	<!--装备-->
+	<symbol className="EquipSelectUI"/>
+	<!--装备强化-->
+	<symbol className="EquipStrengthUI"/>
+	<!--装备合成-->
+	<symbol className="EquipComposeUI"/>
+	<!--英雄更换-->
+	<symbol className="HeroSelectUI"/>
+	<!--商店-->
+	<symbol className="StoreSoldUI"/>
+	<!--商店-->
+	<symbol className="StoreBuyUI"/>
+	<!--浏览技能-->
+	<symbol className="SkillBrowseUI"/>
+	<!--浏览兵种-->
+	<symbol className="ArmyBrowseUI"/>
+	<!--关卡选择-->
+	<symbol className="MissionSelectUI"/>
+	<!--装备信息-->
+	<symbol className="EquipIntro"/>
+	
+	<!--英雄属性条-->
+	<symbol className="Bar_HeroAttr"/>
+	<!--英雄属性-->
+	<symbol className="HeroAttrUI"/>
+	
+	<!--地图-->
+	<symbol className="map_1"/>
+	<symbol className="map_2"/>
+	<symbol className="map_3"/>
+	<symbol className="map_4"/>
+	
+	<!--按钮-->
+	<symbol className="Btn_Skip"/>
+	<symbol className="Btn_Game"/>
+	<symbol className="Btn_Sys"/>
+	<symbol className="Btn_Back"/>
+	<symbol className="Btn_AddFri"/>
+	 
+	
+	
+	<!--章節名称-->
+	<symbol className="chapter1"/>
+	<symbol className="chapter2"/>
+	<symbol className="chapter3"/>
+	<symbol className="chapter4"/>
+	<symbol className="chapter5"/>
+	
+	
+	
+	<!--UI 每章節 關卡 素材-->
+	<symbol className="Mis_Fail"/>
+	<symbol className="Mis_Pass"/>
+	<symbol className="Mis_Lock"/>
+	<symbol className="Mis_Perfect"/>
+	<symbol className="Mis_Challenge"/>
+	<!-- 战前准备 -->
+	<symbol className="DisposeUI"/>
+	<symbol className="Dispose_Friend"/>
+	<symbol className="Dispose_Skill"/>
+	<symbol className="Dispose_Troop"/>
+	
+	<!-- 战前准备标题 -->
+	<symbol className="Title_DisposeFriend"/>
+	<symbol className="Title_DisposeSkill"/>
+	<symbol className="Title_DisposeTroop"/>
+	<symbol className="Dispose_Friend_Title"/>
+	<symbol className="Dispose_Skill_Title"/>
+	<symbol className="Dispose_Troop_Title"/>
+	
+	<symbol className="LevelStar"/>
+	<symbol className="LevelEmpty"/>
+	<symbol className="vs"/>
+	<symbol className="chase"/>
+	<!--游戏结果 UI-->
+	<symbol className="WinUI"/>
+	<symbol className="FailUI"/>
+	<symbol className="UI_Game_Result_Award"/>
+	<!--系统 设置-->
+	<symbol className="UI_Game_Sys_Playing"/>
+	<symbol className="UI_Game_Sys_Normal"/>
+	<symbol className="UI_Radio_Sound"/>
+	<symbol className="UI_Radio_Music"/>
+
+	<!--游戏开始画面-->
+	<symbol className="UI_main_a"/>
+	<!--9宫格-->
+	<symbol className="Scale9_Blue"/>
+	<symbol className="Scale9_Brown"/>
+	<symbol className="EquipBg"/>
+	
+</list>

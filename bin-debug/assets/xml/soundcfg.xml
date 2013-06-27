@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list fileName="soundcfg" type='sound'>
+	<linkClass url="Shu_YX1_attack01"/>
+	<linkClass url="Shu_YX1_die"/>
+	<linkClass url="Shu_YX1_move"/> 
+</list>
